@@ -36,3 +36,25 @@ if __name__ == '__main__':
             print("Please re-enter the values")
 
 
+'''
+Output in Command Prompt:-
+Enter some student #1 information (Name Age Contact_Number Email_ID) : Elviin 18 1236987412 elviin.t.eldho@gmail.com
+Entered information Elviin 18 1236987412 elviin.t.eldho@gmail.com
+Entered split up information :  ['Elviin', '18', '1236987412', 'elviin.t.eldho@gmail.com']
+
+The entered information is -
+Name : Elviin
+Age : 18
+Contact Number : 1236987412
+E-mail ID : elviin.t.eldho@gmail.com
+Is the entered information correct? (yes/no)yes
+Enter (yes/no) if you want to enter for another student:no
+
+Output in Text File:-
+Student Number : 1
+Name : Elviin
+Age : 18
+Contact Number : 1236987412
+E-mail ID : elviin.t.eldho@gmail.com
+
+'''
